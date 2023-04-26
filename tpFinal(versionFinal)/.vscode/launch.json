@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Netbook/Documents/00-Analista-de-Sistemas/3ero/AyED-II-(recursada)/TPs/TP-Final-UML/Sistema-de-Transportes/v3/tpFinal",
+      "program": "c:/Users/Netbook/Documents/00-Analista-de-Sistemas/3ero/AyED-II-(recursada)/TPs/TP-Final-UML/Sistema-de-Transportes/v3/tpFinal/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
